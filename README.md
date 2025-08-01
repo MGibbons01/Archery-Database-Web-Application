@@ -22,4 +22,6 @@ This project is a PHP web application backed by a complex SQL database to manage
 - **Club Recorders:** Enter official competition results and generate rankings.
 
 ## ER Diagram
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/MGibbons01/Archery-Database-Web-Application/blob/main/ArchersDatabaseDesign-main/Untitled%20Diagram-1742194193897.drawio.png?raw=true)
+
+
