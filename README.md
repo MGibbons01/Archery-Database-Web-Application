@@ -20,3 +20,6 @@ This project is a PHP web application backed by a complex SQL database to manage
 
 - **Archers:** Submit scores via mobile, track progress, and view results.
 - **Club Recorders:** Enter official competition results and generate rankings.
+
+## ER Diagram
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
