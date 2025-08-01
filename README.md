@@ -1,8 +1,8 @@
-# Archery Club Scoring System
+# 🏹 Archery Club Scoring System
 
 This project is a PHP web application backed by a complex SQL database to manage and display archery scores and competition results.
 
-## Features
+## 📝 Features
 
 - **Archer Profiles:** Categorized by age, gender, and equipment (e.g., *Male Open Recurve*).
 - **Score Tracking:** Archers can submit and view scores by round, date, or equipment.
@@ -10,18 +10,17 @@ This project is a PHP web application backed by a complex SQL database to manage
 - **Personal Bests:** View an archer’s highest score and club records.
 - **Round Info:** Lookup definitions and equivalents for standard archery rounds.
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - **Backend:** PHP, MySQL  
 - **Frontend:** HTML/CSS  
 - **Tools:** phpMyAdmin, Git
 
-## Use Cases
+## 🧑‍💻 Use Cases
 
 - **Archers:** Submit scores via mobile, track progress, and view results.
 - **Club Recorders:** Enter official competition results and generate rankings.
 
-## ER Diagram
-![alt text](https://github.com/MGibbons01/Archery-Database-Web-Application/blob/main/ArchersDatabaseDesign-main/Untitled%20Diagram-1742194193897.drawio.png?raw=true)
+## 🗺️ ER Diagram
 
-
+![ER Diagram](https://github.com/MGibbons01/Archery-Database-Web-Application/blob/main/ArchersDatabaseDesign-main/Untitled%20Diagram-1742194193897.drawio.png?raw=true)
